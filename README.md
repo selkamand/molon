@@ -1,7 +1,3 @@
-MOLON Ontology Package
-================
-Your Name
-2024-05-23
 
 # MOLON Ontology Package
 

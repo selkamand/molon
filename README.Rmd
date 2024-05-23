@@ -1,7 +1,4 @@
 ---
-title: "MOLON Ontology Package"
-author: "Your Name"
-date: "`r Sys.Date()`"
 output: github_document
 ---
 
