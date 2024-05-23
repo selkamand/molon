@@ -1,0 +1,37 @@
+---
+title: "MOLON Ontology Package"
+author: "Your Name"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+# MOLON Ontology Package
+
+The MOLON Ontology describes mechanisms driving distinct mutational profiles in cancer.
+
+This package makes it easy to load and visualize the MOLON ontology
+
+
+## Installation
+
+You can install the development version of the MOLON Ontology Package from GitHub with:
+
+```r
+# install.packages("devtools")
+devtools::install_github("yourusername/molon")
+```
+
+## Quick Start
+
+```{r}
+library(molon)
+
+# Visualise
+graph_ontology()
+```
+
+Load the ontology as a data.frame
+```{r}
+load_ontology()
+```
+
